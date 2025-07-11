@@ -1,6 +1,4 @@
-# Meu Primeiro App React
-
-2º Bimestre - Atv 01
+# 2º Bimestre - Atv 01
 
 Este projeto foi desenvolvido com React + Vite + TypeScript.
 
