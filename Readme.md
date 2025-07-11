@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido com React + Vite + TypeScript.
 
+<img src="public/react.png" alt="Logo React" width="200" style="display: block; margin: 0 auto;" />
+
 ## Exercícios
 
 1. Estrutura básica do projeto
