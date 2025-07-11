@@ -1,5 +1,7 @@
 # Meu Primeiro App React
 
+2º Bimestre - Atv 01
+
 Este projeto foi desenvolvido com React + Vite + TypeScript.
 
 <img src="react.png" alt="Logo React" width="300" style="display: block; margin: 0 auto;" />
